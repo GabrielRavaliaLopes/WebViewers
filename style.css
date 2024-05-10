@@ -8,7 +8,7 @@ nav{
     display: flex;
     align-items: center;
     padding: 20px;
-    background-color: #fff;   
+    background-color: #a9e9a4;   
     border-radius: 0px 0px 15px 15px;
     height: 80px;
 }
@@ -29,7 +29,7 @@ ul{
 }
 li:hover{
     transition: 0.5s;
-    background-color: #A0ADBE;
+    background-color: #ab49cc;
     border-radius: 2px;
 }
 ul > a{
@@ -41,7 +41,7 @@ li{
     padding: 3px;
 }
 body,html{
-    background-color: #A9C6D9;
+    background-color: #ab49cc;
     width: 100%;
     height: 100%;
 }
@@ -60,7 +60,7 @@ main{
 .card{
     width:400px;
     height: 525px;
-    background-color: #fff;
+    background-color: #a9e9a4;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -74,7 +74,7 @@ main{
 }
 
 .card p{
-    background-color: #A0ADBE;
+    background-color: #7bca7b;
     width: 333px;
     height: 136px;
     padding: 10px;
